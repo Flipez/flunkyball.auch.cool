@@ -1,0 +1,19 @@
+[[list]]
+    name = "Strafen"
+    image = "https://picsum.photos/400/200"
+    text = """
+    Sollte zu früh "STOPP" gerufen oder zu lange getrunken werden erhält das andere Team einen zweiten Wurf.
+
+    Wird das Bier eines Spielers umgeworfen erhält dieser ein Strafbier.
+
+    Ein Strafbier gibt es außerdem wenn das Bier nicht komplett geleert ist.
+    Ein Bier gilt nicht als leer wenn mehr als einige weniger Tropfen oder etwas Schaum aus der Flasche laufen wenn diese in der Luft auf den Kopf gedreht wird.
+    """
+[[list]]
+    name = "Penalties"
+    image = "https://picsum.photos/400/200"
+    text = """
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Voluptatibus quia, nulla! Maiores et perferendis eaque,
+        exercitationem praesentium nihil.
+    """

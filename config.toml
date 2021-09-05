@@ -1,0 +1,25 @@
+baseURL = ""
+languageCode = "en-us"
+theme = "SimpleIntro"
+title = "Flunkyball Munich 2021"
+publishDir = "public"
+
+[params]
+    mainbg = "images/beers.jpg"
+    name = "Flipez"
+    mainTitle = "Flaucher Park Munich"
+    mainText = "02.10.2021 - 4pm"
+
+[menus]
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "#about"
+    [[menu.main]]
+        identifier = "rules"
+        name = "Rules"
+        url = "#rules"
+    [[menu.main]]
+        identifier = "penalties"
+        name = "Penalties"
+        url = "#penalties"

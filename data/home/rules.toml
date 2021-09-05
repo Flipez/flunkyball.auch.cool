@@ -1,0 +1,24 @@
+[[list]]
+    name = "Regeln"
+    icon = "https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg"
+    text = """
+    Die Entfernung beider Teams beträgt 20m, in der mitte steht eine halb gefüllte Wasserflasche.
+
+    Durch Schere-Stein-Papier wird entschieden welches Team beginnt (best of three).
+
+    Jeder Spieler bekommt ein Bier (0.5L)
+
+    Zum werfen wird ein Tennisball benutzt, fällt die Flasche in der Mitte darf das Team des Werfers trinken.
+
+    Sobald das gegnerische Team die Flasche aufgestellt hat muss "STOPP" gerufen werden - dann darf nicht mehr getrunken werden.
+
+    Gewonnen hat das Team, dass zuerst alle Getränke geleert hat.
+    """
+[[list]]
+    name = "Rules"
+    icon = "https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg"
+    text = """
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Voluptatibus quia, nulla! Maiores et perferendis eaque,
+        exercitationem praesentium nihil.
+    """
