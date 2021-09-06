@@ -18,7 +18,15 @@
     name = "Rules"
     icon = "https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+    The distance between the two teams is 20m, in the middle of the field will be a half full water bottle.
+
+    The starting team is choosen by rock-paper-scissors (Best of three).
+
+    Every player will get a beer (0.5L).
+
+    A tennis ball is used to throw, if the bottle rolls over the team of the thrower is allowed to drink.
+
+    If the opposing team has placed the bottle it has to shout "STOP" - from that point it is no longer allowed to drink.
+
+    The team which has emptied all bottles first wins.
     """

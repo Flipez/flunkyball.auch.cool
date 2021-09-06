@@ -13,7 +13,10 @@
     name = "Penalties"
     image = "https://picsum.photos/400/200"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+    If someone shouts "STOP" to early or drings to long the opposing team gets a free shot.
+
+    If the beer of a player tips over a player gets a extra beer.
+
+    An extra beer is also handed out if the beer is not completly empty.
+    A beer is not empty if it looses more than a few drops or more than a little froth if the bottle is rotated upside down.
     """
