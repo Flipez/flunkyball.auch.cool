@@ -2,31 +2,35 @@
     name = "Regeln"
     icon = "https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg"
     text = """
-    Die Entfernung beider Teams beträgt 20m, in der mitte steht eine halb gefüllte Wasserflasche.
+    Die Entfernung beider Teams beträgt 20m und ist durch zwei Manschaftslinien gekennzeichnet. In der Mitte steht eine halb gefüllte Wasserflasche.
 
-    Durch Schere-Stein-Papier wird entschieden welches Team beginnt (best of three).
+    Durch Schere-Stein-Papier wird entschieden welches Team beginnt (zwei-aus-drei).
 
-    Jeder Spieler bekommt ein Bier (0.5L)
+    Jeder Spieler bekommt ein Bier (0.5L) oder ein äquivalentes alkoholisches Getränk
 
-    Zum werfen wird ein Volleyball (oder Objekt ähnlicher Größe) benutzt, fällt die Flasche in der Mitte darf das Team des Werfers trinken.
+    Zum Werfen wird ein Volleyball (oder Objekt ähnlicher Größe) benutzt. Fällt die Flasche in der Mitte um, darf das Team des Werfers/der Werferin trinken.
+    
+    Das generische Team muss währenddessen die Flasche wieder aufstellen und den Ball hinter die Teamlinie holen.
+    
+    Sobald sich das gesamte generische Team wieder hinter der Mannschaftslinie befindet, muss "STOPP" gerufen werden - dann darf nicht mehr getrunken werden.
 
-    Sobald das gegnerische Team die Flasche aufgestellt hat muss "STOPP" gerufen werden - dann darf nicht mehr getrunken werden.
-
-    Gewonnen hat das Team, dass zuerst alle Getränke geleert hat.
+    Gewonnen hat das Team, das zuerst alle Getränke geleert hat.
     """
 [[list]]
     name = "Rules"
     icon = "https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg"
     text = """
-    The distance between the two teams is 20m, in the middle of the field will be a half full water bottle.
+    The distance between the two teams is 20m and is marked by two team lines. In the middle of the field will be a half full water bottle.
 
     The starting team is choosen by rock-paper-scissors (Best of three).
 
-    Every player will get a beer (0.5L).
+    Every player will get a beer (0.5L) or an equivalent alcoholic beverage.
 
-    A volley ball (or object similiar size) is used to throw, if the bottle rolls over the team of the thrower is allowed to drink.
+    A volleyball (or object of similiar size) is used to throw. If the bottle pushes the bottle over, the team of the thrower is allowed to drink.
 
-    If the opposing team has placed the bottle it has to shout "STOP" - from that point it is no longer allowed to drink.
+    Meanwhile, the opposing team has to place the bottle again and bring the ball behind their team line.
+
+    If the opposing team is behind the team line again, it has to shout "STOP" - from that point it is no longer allowed to drink.
 
     The team which has emptied all bottles first wins.
     """
