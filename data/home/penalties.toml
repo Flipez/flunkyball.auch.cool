@@ -2,20 +2,20 @@
     name = "Strafen"
     image = "https://picsum.photos/400/200"
     text = """
-    Sollte zu früh "STOPP" gerufen oder zu lange getrunken werden erhält das andere Team einen zweiten Wurf.
+    Sollte zu früh "STOPP" gerufen oder zu lange getrunken werden, erhält das andere Team einen zweiten Wurf.
 
-    Wird das Bier eines Spielers umgeworfen erhält dieser ein Strafbier.
+    Wird das Bier eines Spielers umgeworfen, erhält dieser ein Strafbier.
 
-    Ein Strafbier gibt es außerdem wenn das Bier nicht komplett geleert ist.
-    Ein Bier gilt nicht als leer wenn mehr als einige weniger Tropfen oder etwas Schaum aus der Flasche laufen wenn diese in der Luft auf den Kopf gedreht wird.
+    Ein Strafbier gibt es außerdem, wenn das Bier nicht komplett geleert ist.
+    Ein Bier gilt nicht als leer, wenn mehr als einige wenige Tropfen oder etwas Schaum aus der Flasche laufen, wenn diese in der Luft auf den Kopf gedreht wird.
     """
 [[list]]
     name = "Penalties"
     image = "https://picsum.photos/400/200"
     text = """
-    If someone shouts "STOP" to early or drings to long the opposing team gets a free shot.
+    If someone shouts "STOP" too early or drinks to long, the opposing team gets a free shot.
 
-    If the beer of a player tips over a player gets a extra beer.
+    If the beer of a player tips over, that player gets an extra beer.
 
     An extra beer is also handed out if the beer is not completly empty.
     A beer is not empty if it looses more than a few drops or more than a little froth if the bottle is rotated upside down.
