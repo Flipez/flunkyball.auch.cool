@@ -2,7 +2,7 @@
     name = "Regeln"
     icon = "https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg"
     text = """
-    Die Entfernung beider Teams beträgt 20m und ist durch zwei Manschaftslinien gekennzeichnet. In der Mitte steht eine halb gefüllte Wasserflasche.
+    Die Entfernung beider Teams beträgt 20m und ist durch zwei Mannschaftslinien gekennzeichnet. In der Mitte steht eine halb gefüllte Wasserflasche.
 
     Durch Schere-Stein-Papier wird entschieden welches Team beginnt (zwei-aus-drei).
 
