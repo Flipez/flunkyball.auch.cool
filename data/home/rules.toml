@@ -6,17 +6,17 @@
 
     Durch Schere-Stein-Papier wird entschieden welches Team beginnt (zwei-aus-drei).
 
-    Jeder Spieler bekommt ein Bier (0.5L) oder ein äquivalentes alkoholisches Getränk
+    Jeder Spieler bekommt ein Bier (0.5L) oder ein äquivalentes alkoholisches Getränk.
 
     Zum Werfen wird ein Volleyball (oder Objekt ähnlicher Größe) benutzt. Fällt die Flasche in der Mitte um, darf das Team des Werfers/der Werferin trinken.
     
-    Das generische Team muss währenddessen die Flasche wieder aufstellen und den Ball hinter die Teamlinie holen.
+    Das gegnerische Team muss währenddessen die Flasche wieder aufstellen und den Ball hinter die Teamlinie holen.
     
-    Sobald sich das gesamte generische Team wieder hinter der Mannschaftslinie befindet, muss "STOPP" gerufen werden - dann darf nicht mehr getrunken werden.
+    Sobald sich das gesamte gegnerische Team wieder hinter der Mannschaftslinie befindet, muss "STOPP" gerufen werden - dann darf nicht mehr getrunken werden.
 
-    Gewonnen hat das Team, das zuerst alle Getränke geleert hat.
+    Gewonnen hat das Team, das zuerst alle seine Getränke geleert hat.
 
-    Das Gewinnerteam bekommt einen Punkt. Das Team das am Ende des Tourniers die meisten Punkte hat gewinnt den Wettkampf.
+    Das Gewinnerteam bekommt einen Punkt. Das Team, das am Ende des Turniers die meisten Punkte hat, gewinnt den Wettkampf.
     """
 [[list]]
     name = "Rules"
@@ -24,17 +24,17 @@
     text = """
     The distance between the two teams is 20m and is marked by two team lines. In the middle of the field will be a half full water bottle.
 
-    The starting team is choosen by rock-paper-scissors (Best of three).
+    The starting team is choosen by rock-paper-scissors (two-out-of-three).
 
-    Every player will get a beer (0.5L) or an equivalent alcoholic beverage.
+    Every player will get a beer (0.5l) or an equivalent alcoholic beverage.
 
     A volleyball (or object of similiar size) is used to throw. If the bottle pushes the bottle over, the team of the thrower is allowed to drink.
 
-    Meanwhile, the opposing team has to place the bottle again and bring the ball behind their team line.
+    Meanwhile, the opposing team has to place the bottle up again and to bring the ball behind their team line.
 
     If the opposing team is behind the team line again, it has to shout "STOP" - from that point it is no longer allowed to drink.
 
     The team which has emptied all bottles first wins.
 
-    The winning team gets one point. The team with the most points at the end of the tounarment is the overall winner.
+    The winning team gets one point. The team with the most points at the end of the tournament is the overall winner.
     """
