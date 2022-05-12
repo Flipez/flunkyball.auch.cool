@@ -15,6 +15,8 @@
     Sobald sich das gesamte generische Team wieder hinter der Mannschaftslinie befindet, muss "STOPP" gerufen werden - dann darf nicht mehr getrunken werden.
 
     Gewonnen hat das Team, das zuerst alle Getränke geleert hat.
+
+    Das Gewinnerteam bekommt einen Punkt. Das Team das am Ende des Tourniers die meisten Punkte hat gewinnt den Wettkampf.
     """
 [[list]]
     name = "Rules"
@@ -33,4 +35,6 @@
     If the opposing team is behind the team line again, it has to shout "STOP" - from that point it is no longer allowed to drink.
 
     The team which has emptied all bottles first wins.
+
+    The winning team gets one point. The team with the most points at the end of the tounarment is the overall winner.
     """
