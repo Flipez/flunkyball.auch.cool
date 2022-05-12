@@ -1,14 +1,14 @@
 baseURL = ""
 languageCode = "en-us"
 theme = "SimpleIntro"
-title = "Flunkyball Munich 2021"
+title = "Flunkyball Munich 2022"
 publishDir = "public"
 
 [params]
     mainbg = "images/beers.jpg"
     name = "Flipez"
-    mainTitle = "Flaucher Park Munich"
-    mainText = "02.10.2021 - 4pm"
+    mainTitle = "English Garden Munich"
+    mainText = "18.06.2022 - 12 pm (noon)"
 
 [menus]
     [[menu.main]]
